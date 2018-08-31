@@ -1,7 +1,7 @@
 # iFish Chain
 
 <div align="center">
-  <img src="https://coin.ifish.im/images/logo2_03.png" alt="Logo" />
+  <img src="https://ifish.im/design/LOGO.png" alt="Logo" />
   <p>The iFish Chain protocol implementation.</p>
 </div>
 
